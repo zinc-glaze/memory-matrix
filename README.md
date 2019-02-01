@@ -1,6 +1,7 @@
 # Vintage Synth Memory Matrix
-## AKA "Clicky Game"
-Zeke Graves React.js Homework
+## AKA "Clicky Game" (Zeke Graves React.js Homework)
+
+Demo:  https://zinc-glaze.github.io/memory-matrix/
 
 This is a simple memory game that presents the user with 12 image tiles. The user must click each tile without clicking the same one twice. The tiles are rearranged after each click. The game keeps score of how many unique tiles the user has clicked and the high score from each session.  
 
