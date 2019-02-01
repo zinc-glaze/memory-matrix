@@ -1,0 +1,20 @@
+#header {
+  text-align: center;
+  padding: 10px;
+}
+
+#title {
+  font-family: 'Press Start 2P', cursive;
+  color: black;
+  font-size: 48px;
+  letter-spacing: .1em;
+  padding: 10px;
+}
+
+#theme {
+  font-family: 'Monoton', cursive;
+  color: black;
+  font-size: 38px;
+  padding: 10px;
+  margin-bottom: 8px;
+}

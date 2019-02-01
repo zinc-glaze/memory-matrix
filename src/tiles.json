@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Moog Minimoog",
+    "image": "http://www.vintagesynth.com/sites/default/files/2017-05/moog_minimoogd.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "ARP Odyssey",
+    "image": "http://www.vintagesynth.com/sites/default/files/2017-05/odyssey-2800.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Buchla 100 Series",
+    "image": "http://www.vintagesynth.com/sites/default/files/2017-05/buchla100.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "Casio SK-1",
+    "image": "http://www.vintagesynth.com/sites/default/files/2017-05/sk1.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Yamaha DX-7",
+    "image": "http://www.vintagesynth.com/sites/default/files/2017-05/yamaha_dx7_angle2.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "EH Mini-Synth",
+    "image": "http://www.vintagesynth.com/sites/default/files/2017-05/eh_minisynth.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "EDP Wasp",
+    "image": "http://www.vintagesynth.com/sites/default/files/2017-05/edp_wasp.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "EMS VCS3",
+    "image": "http://www.vintagesynth.com/sites/default/files/2017-05/vcs3.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "Roland TR-808",
+    "image": "http://www.vintagesynth.com/sites/default/files/2017-05/roland_tr808.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "Linn LinnDrum",
+    "image": "http://www.vintagesynth.com/sites/default/files/2017-05/linn_lm2-e.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "Yamaha CS-80",
+    "image": "http://www.vintagesynth.com/sites/default/files/2017-05/yamaha_cs80.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "Octave Cat",
+    "image": "http://www.vintagesynth.com/sites/default/files/2017-05/octave_cat_angle.jpg",
+    "clicked": false
+  }
+]
