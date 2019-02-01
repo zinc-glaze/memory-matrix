@@ -9,7 +9,5 @@ The main purpose of this app is to practice creating a React app, composing mult
   * React.js for front-end framework, logic, and state management
   * CSS for UI design, layout, and animations
   * Javascript/JSX for app logic and interactive elements
-  * jQuery for additional Javascript functionality and AJAX calls to server
   * Github for app deployment and hosting
-  * Mongoose, Cheerio, and Axios npm packages
 
