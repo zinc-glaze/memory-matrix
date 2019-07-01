@@ -17,7 +17,7 @@ Installation: MongoDB and required npm packages must be installed to run this ap
 
 ![Memory Matrix](screens/screencapture-zinc-glaze-github-io-memory-matrix-2019-06-28-15_00_59.png)
 
-![Memory Matrix](screens/screencapture-zinc-glaze-github-io-memory-matrix-2019-06-28-15_00_59.png)
+![Memory Matrix](screens/screencapture-zinc-glaze-github-io-memory-matrix-2019-06-28-15_01_21.png)
 
-![Memory Matrix](screens/screencapture-zinc-glaze-github-io-memory-matrix-2019-06-28-15_00_59.png)
+![Memory Matrix](screens/screencapture-zinc-glaze-github-io-memory-matrix-2019-06-28-15_02_13.png)
 
